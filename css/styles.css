@@ -15,6 +15,15 @@ button {
     img {
         display: block;
     }
+    ul {
+        list-style-type: none;
+        font-style: normal;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-left: 0;
+        }
     .container-top .container-bottom {
         display: flex;
     }    
