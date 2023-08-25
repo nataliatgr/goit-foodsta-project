@@ -15,7 +15,7 @@ button {
     img {
         display: block;
     }
-    .container-top {
+    .container-top .container-bottom {
         display: flex;
     }    
     .upper-nav {
@@ -25,4 +25,7 @@ button {
     .contact-nav {
         display: flex;
         gap: 40px;
+    }
+    .footer-web .policy {
+        display: flex;
     }
