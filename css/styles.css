@@ -41,6 +41,24 @@ button {
         display: flex;
         gap: 40px;
     }
+    .order-button {
+        color: #2c2c2c;
+        background-color: #BBF330; 
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: center;
+        display: block;
+        min-width: 169px;
+        height: 56px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-right: auto; 
+        margin-left: auto;
+    }   
     .footer-web .policy {
         display: flex;
     }
