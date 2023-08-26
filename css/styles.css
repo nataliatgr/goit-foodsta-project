@@ -41,7 +41,10 @@ button {
           }
     .container-top .container-bottom {
         display: flex;
-    }   
+    }  
+    .container-top {
+        height: 72px;
+    } 
     .favorites-bottom {
         display: flex;
         flex-wrap: wrap;
@@ -56,6 +59,9 @@ button {
         display: flex;
         gap: 40px;
         align-items: center;
+    }
+    .order-button-menu {
+        text-align: right; 
     }
     
     .order-button {
